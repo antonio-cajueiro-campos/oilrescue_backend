@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OilrescueApplication {
+public class OilRescueApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OilrescueApplication.class, args);
+		SpringApplication.run(OilRescueApplication.class, args);
 	}
-
 }
